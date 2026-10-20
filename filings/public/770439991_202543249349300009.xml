@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2024v5.2" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-20T08:49:22-06:00</ReturnTs>
+    <TaxPeriodEndDt>2025-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>832748886</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Tam CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 154</AddressLine1Txt>
+        <CityNm>Lathrop</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95330</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>770439991</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Alice Fong Yu Parent Association</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% Jenny Allen</InCareOfNm>
+      <BusinessNameControlTxt>ALIC</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>1541 12th Avenue</AddressLine1Txt>
+        <CityNm>San Francisco</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94122</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JENNY ALLEN</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <PhoneNum>4157592764</PhoneNum>
+      <SignatureDt>2025-11-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KENNETH K TAM</PreparerPersonNm>
+      <PTIN>P02216912</PTIN>
+      <PhoneNum>2099854290</PhoneNum>
+      <PreparationDt>2025-11-20</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990 documentId="IRS990-117-Copy1" referenceDocumentId="IRS990ScheduleO-196-Copy1">
+      <PrincipalOfficerNm>Jenny Allen</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>1541 12th Avenue</AddressLine1Txt>
+        <CityNm>San Francisco</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94122</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>486287</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>www.afypa.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1996</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>Parent Association supporting Alice Fong Yu Alternative School to maximize the education opportunites of students from K8 Grade</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>3</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>3</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>371609</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>437245</CYContributionsGrantsAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>14119</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>49042</CYInvestmentIncomeAmt>
+      <CYOtherRevenueAmt>0</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>385728</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>486287</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>69042</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>363336</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>358625</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>363336</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>358625</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>22392</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>127662</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>1485647</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>1616971</TotalAssetsEOYAmt>
+      <TotalLiabilitiesEOYAmt>3662</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>1485647</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>1613309</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>Support educational programs of Alice Fong Yu Alternative School in San Francisco Unified School District to approximately 550 students</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>244447</ExpenseAmt>
+      <Desc>The Alice Fong Yu Parent Association raised funds to support the educational programs of the students at Alice Fong Yu Alternative School for field trips, garden classes, art classes, cultural enrichment classes, para professionals, tutoring, instructional materials and other expenditures not funded by the San Francisco Unified School District</Desc>
+      <TotalProgramServiceExpensesAmt>244447</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="IRS990ScheduleA-127-Copy1">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>false</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd>false</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd>false</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>false</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd>false</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd>false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd>false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="IRS990ScheduleG-127-Copy1">true</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>false</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>false</BackupWthldComplianceInd>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>false</SubjectToExcsTaxNetInvstIncInd>
+      <ExcsTaxSect4951Or4952Or4953Ind>false</ExcsTaxSect4951Or4952Or4953Ind>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>3</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>3</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>false</ConflictOfInterestPolicyInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>false</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>JENNY ALLEN</PersonNm>
+        <PhoneNum>4157592764</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>1541 12th Avenue</AddressLine1Txt>
+          <CityNm>San Francisco</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94122</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JENNY ALLEN</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>3.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MARIE CHEN</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <AverageHoursPerWeekRt>20.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CLAUDIA LAM</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>3.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <FundraisingAmt>208014</FundraisingAmt>
+      <AllOtherContributionsAmt>229231</AllOtherContributionsAmt>
+      <TotalContributionsAmt>437245</TotalContributionsAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>49042</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>49042</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>486287</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>49042</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>0</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>9821</TotalAmt>
+        <ManagementAndGeneralAmt>9821</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>2702</TotalAmt>
+        <ManagementAndGeneralAmt>2702</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>101063</TotalAmt>
+        <ProgramServicesAmt>101063</ProgramServicesAmt>
+      </FeesForServicesOtherGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>3172</TotalAmt>
+        <ManagementAndGeneralAmt>3172</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <InterestGrp>
+        <TotalAmt>129</TotalAmt>
+        <ManagementAndGeneralAmt>129</ManagementAndGeneralAmt>
+      </InterestGrp>
+      <OtherExpensesGrp>
+        <Desc>Fundraising Expense</Desc>
+        <TotalAmt>69042</TotalAmt>
+        <FundraisingAmt>69042</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Scholarships</Desc>
+        <TotalAmt>2627</TotalAmt>
+        <ProgramServicesAmt>2627</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>CNY Parade</Desc>
+        <TotalAmt>4999</TotalAmt>
+        <ProgramServicesAmt>4999</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Event Expenses</Desc>
+        <TotalAmt>26516</TotalAmt>
+        <ProgramServicesAmt>26516</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>138554</TotalAmt>
+        <ProgramServicesAmt>109240</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>29314</ManagementAndGeneralAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>358625</TotalAmt>
+        <ProgramServicesAmt>244445</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>45138</ManagementAndGeneralAmt>
+        <FundraisingAmt>69042</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>497645</BOYAmt>
+        <EOYAmt>166085</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>988002</BOYAmt>
+        <EOYAmt>1450886</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>1485647</BOYAmt>
+        <EOYAmt>1616971</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <EOYAmt>3662</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>3662</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>1485647</BOYAmt>
+        <EOYAmt>1613309</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>1485647</BOYAmt>
+        <EOYAmt>1613309</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>1485647</BOYAmt>
+        <EOYAmt>1616971</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>127662</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA-164-Copy1">
+      <PubliclySupportedOrg509a2Ind>X</PubliclySupportedOrg509a2Ind>
+      <GiftsGrantsContrisRcvd509Grp>
+        <CurrentTaxYearMinus2YearsAmt>402523</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>259461</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>212366</CurrentTaxYearAmt>
+        <TotalAmt>874350</TotalAmt>
+      </GiftsGrantsContrisRcvd509Grp>
+      <GrossReceiptsAdmissionsGrp>
+        <CurrentTaxYearMinus1YearAmt>112148</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>224879</CurrentTaxYearAmt>
+        <TotalAmt>337027</TotalAmt>
+      </GrossReceiptsAdmissionsGrp>
+      <Total509Grp>
+        <CurrentTaxYearMinus2YearsAmt>402523</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>371609</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>437245</CurrentTaxYearAmt>
+        <TotalAmt>1211377</TotalAmt>
+      </Total509Grp>
+      <SubstAndDsqlfyPrsnsTotGrp>
+        <CurrentTaxYearMinus4YearsAmt>0</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>0</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>0</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>0</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>0</CurrentTaxYearAmt>
+        <TotalAmt>0</TotalAmt>
+      </SubstAndDsqlfyPrsnsTotGrp>
+      <PublicSupportTotal509Amt>1211377</PublicSupportTotal509Amt>
+      <GrossInvestmentIncome509Grp>
+        <CurrentTaxYearMinus2YearsAmt>17685</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>14119</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>49042</CurrentTaxYearAmt>
+        <TotalAmt>80846</TotalAmt>
+      </GrossInvestmentIncome509Grp>
+      <InvestmentIncomeAndUBTIGrp>
+        <CurrentTaxYearMinus2YearsAmt>17685</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>14119</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>49042</CurrentTaxYearAmt>
+        <TotalAmt>80846</TotalAmt>
+      </InvestmentIncomeAndUBTIGrp>
+      <TotalSupportCalendarYearGrp>
+        <CurrentTaxYearMinus4YearsAmt>0</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>0</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>420208</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>385728</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>486287</CurrentTaxYearAmt>
+        <TotalAmt>1292223</TotalAmt>
+      </TotalSupportCalendarYearGrp>
+      <PublicSupportCY509Pct>0.93740</PublicSupportCY509Pct>
+      <PublicSupportPY509Pct>0.96054</PublicSupportPY509Pct>
+      <InvestmentIncomeCYPct>0.06000</InvestmentIncomeCYPct>
+      <InvestmentIncomePYPct>0.03946</InvestmentIncomePYPct>
+      <ThirtyThrPctSuprtTestsCY509Ind>X</ThirtyThrPctSuprtTestsCY509Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleG documentId="IRS990ScheduleG-182-Copy1">
+      <FundraisingEventInformationGrp>
+        <Event1Nm>GalaAuction</Event1Nm>
+        <GrossReceiptsEvent1Amt>83820</GrossReceiptsEvent1Amt>
+        <GrossRevenueEvent1Amt>83820</GrossRevenueEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>17866</OtherDirectExpensesEvent1Amt>
+        <Event2Nm>CEP Banquet</Event2Nm>
+        <GrossReceiptsEvent2Amt>59573</GrossReceiptsEvent2Amt>
+        <GrossRevenueEvent2Amt>59573</GrossRevenueEvent2Amt>
+        <OtherDirectExpensesEvent2Amt>25907</OtherDirectExpensesEvent2Amt>
+        <OtherEventsTotalCnt>2</OtherEventsTotalCnt>
+        <GrossReceiptsOtherEventsAmt>64622</GrossReceiptsOtherEventsAmt>
+        <GrossRevenueOtherEventsAmt>64622</GrossRevenueOtherEventsAmt>
+        <OthDirectExpnssOtherEventsAmt>16226</OthDirectExpnssOtherEventsAmt>
+        <GrossReceiptsTotalAmt>208015</GrossReceiptsTotalAmt>
+        <GrossRevenueTotalEventsAmt>208015</GrossRevenueTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>59999</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>59999</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>148016</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleO documentId="IRS990ScheduleO-197-Copy1">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part VI Line 11b</FormAndLineReferenceDesc>
+        <ExplanationTxt>Treasurer reviews the Form 990 before filing</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part VI Line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>Governing Documents Are Available to the Public Upon Request</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 11g</FormAndLineReferenceDesc>
+        <ExplanationTxt>Staff Stipend Total expenses - $19752.00 Program service expenses - $19752.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 11g</FormAndLineReferenceDesc>
+        <ExplanationTxt>Garden Teacher Total expenses - $78372.00 Program service expenses - $78372.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 11g</FormAndLineReferenceDesc>
+        <ExplanationTxt>Tech / Web Support Total expenses - $2939.00 Program service expenses - $2939.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Graduation/Promotion Total expenses - $4045.00 Program service expenses - $4045.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Instructional Materials Total expenses - $13122.00 Program service expenses - $13122.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>China US Exchange Total expenses - $73368.00 Program service expenses - $73368.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Ceremics / Visual Arts Total expenses - $6465.00 Program service expenses - $6465.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Additional Curriculum Total expenses - $2283.00 Program service expenses - $2283.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Garden Supplies Total expenses - $1903.00 Program service expenses - $1903.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Field Trips Total expenses - $7593.00 Program service expenses - $7593.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Athletic Total expenses - $461.00 Program service expenses - $461.00 Mgmt and general expenses - $0.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Miscellaneous Total expenses - $17319.00 Program service expenses - $0.00 Mgmt and general expenses - $17319.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Part IX Line 24e</FormAndLineReferenceDesc>
+        <ExplanationTxt>Bank Fee Total expenses - $11995.00 Program service expenses - $0.00 Mgmt and general expenses - $11995.00 Fundraising expenses - $0.00</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

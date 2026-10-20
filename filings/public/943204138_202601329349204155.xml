@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2026-05-11T09:49:17-04:00</ReturnTs>
+    <TaxPeriodEndDt>2025-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Richard Pon CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 191254</AddressLine1Txt>
+        <CityNm>San Francisco</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94119</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990EZ</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>943204138</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>YICK WO PARENT TEACHER ORGANIZATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% RANEE KWONG</InCareOfNm>
+      <BusinessNameControlTxt>YICK</BusinessNameControlTxt>
+      <PhoneNum>4159904792</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2245 JONES</AddressLine1Txt>
+        <CityNm>SAN FRANCISCO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94133</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RANEE KWONG</PersonNm>
+      <PersonTitleTxt>CO-TREASURER</PersonTitleTxt>
+      <PhoneNum>4159904792</PhoneNum>
+      <SignatureDt>2026-05-08</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RICHARD PON</PreparerPersonNm>
+      <PTIN>P00273718</PTIN>
+      <PhoneNum>4159714610</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990EZ documentId="IRS990EZ">
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <WebsiteAddressTxt>YICKWO.ORG</WebsiteAddressTxt>
+      <Organization501c3Ind referenceDocumentId="IRS990ScheduleA">X</Organization501c3Ind>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <GrossReceiptsAmt>179915</GrossReceiptsAmt>
+      <InfoInScheduleOPartIInd>X</InfoInScheduleOPartIInd>
+      <ContributionsGiftsGrantsEtcAmt>174872</ContributionsGiftsGrantsEtcAmt>
+      <InvestmentIncomeAmt>2543</InvestmentIncomeAmt>
+      <FundraisingGrossIncomeAmt fndrsngEventContriPrevRptAmt="34260" referenceDocumentId="IRS990ScheduleG">2500</FundraisingGrossIncomeAmt>
+      <SpecialEventsDirectExpensesAmt>4922</SpecialEventsDirectExpensesAmt>
+      <SpecialEventsNetIncomeLossAmt>-2422</SpecialEventsNetIncomeLossAmt>
+      <TotalRevenueAmt>174993</TotalRevenueAmt>
+      <GrantsAndSimilarAmountsPaidAmt>186759</GrantsAndSimilarAmountsPaidAmt>
+      <OtherExpensesTotalAmt>3922</OtherExpensesTotalAmt>
+      <TotalExpensesAmt>190681</TotalExpensesAmt>
+      <ExcessOrDeficitForYearAmt>-15688</ExcessOrDeficitForYearAmt>
+      <NetAssetsOrFundBalancesBOYAmt>287887</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>272199</NetAssetsOrFundBalancesEOYAmt>
+      <CashSavingsAndInvestmentsGrp>
+        <BOYAmt>287887</BOYAmt>
+        <EOYAmt>272199</EOYAmt>
+      </CashSavingsAndInvestmentsGrp>
+      <LandAndBuildingsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </LandAndBuildingsGrp>
+      <OtherAssetsTotalDetail>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </OtherAssetsTotalDetail>
+      <Form990TotalAssetsGrp>
+        <BOYAmt>287887</BOYAmt>
+        <EOYAmt>272199</EOYAmt>
+      </Form990TotalAssetsGrp>
+      <SumOfTotalLiabilitiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </SumOfTotalLiabilitiesGrp>
+      <NetAssetsOrFundBalancesGrp>
+        <BOYAmt>287887</BOYAmt>
+        <EOYAmt>272199</EOYAmt>
+      </NetAssetsOrFundBalancesGrp>
+      <PrimaryExemptPurposeTxt>ENCOURAGE COMMUNITY BUILDING AT YICK WO</PrimaryExemptPurposeTxt>
+      <ProgramSrvcAccomplishmentGrp>
+        <DescriptionProgramSrvcAccomTxt>SUPPORTED A VARIETY OF SHCOOL PROGRAMS INCLUDING: READINGCOACHING, VISUAL ARTS INSTRUCTION, PHYSICAL EDUCATION,SCHOOL SUPPLIES AND SUBSIDIZES TEACHING WITH GRANTS</DescriptionProgramSrvcAccomTxt>
+        <GrantsAndAllocationsAmt>186759</GrantsAndAllocationsAmt>
+        <ProgramServiceExpensesAmt>188956</ProgramServiceExpensesAmt>
+      </ProgramSrvcAccomplishmentGrp>
+      <TotalProgramServiceExpensesAmt>188956</TotalProgramServiceExpensesAmt>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>RANEE KWONG</PersonNm>
+        <TitleTxt>CO-TREASURER</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>JULIE LIN</PersonNm>
+        <TitleTxt>CO-TREASURER</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>CHRISTINE HO</PersonNm>
+        <TitleTxt>CO-PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>CHRISTY SAMSON</PersonNm>
+        <TitleTxt>CO-PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>SUSANNA SABAHI</PersonNm>
+        <TitleTxt>CO-SECRETARY</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>CARRIE ESCOBAR</PersonNm>
+        <TitleTxt>CO-SECRETARY</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>CAROLINE KIM</PersonNm>
+        <TitleTxt>CO-VICE PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <OfficerDirectorTrusteeEmplGrp>
+        <PersonNm>VICTORIA LEECH</PersonNm>
+        <TitleTxt>CO-VICE PRESIDENT</TitleTxt>
+        <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+        <CompensationAmt>0</CompensationAmt>
+        <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+        <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+      </OfficerDirectorTrusteeEmplGrp>
+      <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+      <ChgMadeToOrgnzngDocNotRptInd>false</ChgMadeToOrgnzngDocNotRptInd>
+      <OrganizationHadUBIInd>false</OrganizationHadUBIInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+      <Form1120PolFiledInd>false</Form1120PolFiledInd>
+      <MadeLoansToFromOfficersInd>false</MadeLoansToFromOfficersInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <BooksInCareOfDetail>
+        <PersonNm>JULIE LIN</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>2245 JONES</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94133</ZIPCd>
+        </USAddress>
+        <PhoneNum>4159904792</PhoneNum>
+      </BooksInCareOfDetail>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <DonorAdvisedFndsInd>false</DonorAdvisedFndsInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <TanningServicesProvidedInd>false</TanningServicesProvidedInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd>false</TransactionWithControlEntInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <PartVIOfCompOfHghstPdEmplTxt>NONE</PartVIOfCompOfHghstPdEmplTxt>
+      <PartVIHghstPdCntrctProfSrvcTxt>NONE</PartVIHghstPdCntrctProfSrvcTxt>
+      <FiledScheduleAInd>true</FiledScheduleAInd>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>96110</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>160246</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>65875</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>185816</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>174872</CurrentTaxYearAmt>
+        <TotalAmt>682919</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>96110</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>160246</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>65875</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>185816</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>174872</CurrentTaxYearAmt>
+        <TotalAmt>682919</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>5896</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>677023</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>80</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>114</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>2403</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>3893</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>2543</CurrentTaxYearAmt>
+        <TotalAmt>9033</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus3YearsAmt>200</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>5566</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>2500</CurrentTaxYearAmt>
+        <TotalAmt>8266</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>700218</TotalSupportAmt>
+      <PublicSupportCY170Pct>0.96690</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.97540</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>Other income Part II line 10 or Part III line 12</FormAndLineReferenceDesc>
+        <ExplanationTxt>OTHER INCOME IS SPECIAL FUNDRAISING EVENT REVENUE</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleG documentId="IRS990ScheduleG">
+      <EmailSolicitationsInd>X</EmailSolicitationsInd>
+      <InPersonSolicitationsInd>X</InPersonSolicitationsInd>
+      <SpecialFundraisingEventsInd>X</SpecialFundraisingEventsInd>
+      <AgrmtProfFundraisingActyInd>false</AgrmtProfFundraisingActyInd>
+      <FundraisingEventInformationGrp>
+        <Event1Nm>PANDA CHASE</Event1Nm>
+        <GrossReceiptsEvent1Amt>34878</GrossReceiptsEvent1Amt>
+        <GrossRevenueEvent1Amt>34878</GrossRevenueEvent1Amt>
+        <Event2Nm>AUCTION</Event2Nm>
+        <GrossReceiptsEvent2Amt>36760</GrossReceiptsEvent2Amt>
+        <CharitableContriEvent2Amt>34260</CharitableContriEvent2Amt>
+        <GrossRevenueEvent2Amt>2500</GrossRevenueEvent2Amt>
+        <RentFacilityCostsEvent2Amt>1128</RentFacilityCostsEvent2Amt>
+        <FoodAndBeverageEvent2Amt>2522</FoodAndBeverageEvent2Amt>
+        <OtherDirectExpensesEvent2Amt>480</OtherDirectExpensesEvent2Amt>
+        <GrossReceiptsTotalAmt>71638</GrossReceiptsTotalAmt>
+        <CharitableContributionsTotAmt>34260</CharitableContributionsTotAmt>
+        <GrossRevenueTotalEventsAmt>37378</GrossRevenueTotalEventsAmt>
+        <RentFcltyCostsTotalEventsAmt>1128</RentFcltyCostsTotalEventsAmt>
+        <FoodAndBeverageTotalEventsAmt>2522</FoodAndBeverageTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>480</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>4130</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>33248</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>List of grants and similar amounts paid Part I line 10</FormAndLineReferenceDesc>
+        <ExplanationTxt>Activity SUPPORT YICK WO SCHOOL EDUCATION AND ACTIVITIES Grantee SFUSD Street 555 FRANKLIN City, State, Zip SAN FRANCISCO, CA 94102Relationship NONE Amount 186,759</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Description of other expenses Part I line 16</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description Amount5TH GRADE CAMPING 1,244BOOKEEPING, QUICKBOOKS AND FILING F 1,370INSURANCE 355CHINESE NEW YEAR PARADE 953</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>
