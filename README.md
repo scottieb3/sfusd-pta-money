@@ -11,11 +11,21 @@ The map has two views, switchable with the buttons above it:
 
 The **Include private schools** switch layers 19 private schools onto either view in red, on the same $50k scale. In the dollar view the private clusters are too large to fit beside their schools, so each sits in the nearest open space with a thin line to its address. The lines never cross. In the dot view the private circles are centered on their addresses.
 
+## Static images
+
+Four 2400px-wide PNGs in [`images/`](images/), one per view:
+
+| | Public schools only | With private schools |
+|---|---|---|
+| **Dollar signs** | [![Public schools, dollar signs](images/sf-pta-fundraising-1-public-dollars.png)](images/sf-pta-fundraising-1-public-dollars.png) | [![Public vs. private, dollar signs](images/sf-pta-fundraising-3-public-vs-private-dollars.png)](images/sf-pta-fundraising-3-public-vs-private-dollars.png) |
+| **Sized dots** | [![Public schools, sized dots](images/sf-pta-fundraising-2-public-dots.png)](images/sf-pta-fundraising-2-public-dots.png) | [![Public vs. private, sized dots](images/sf-pta-fundraising-4-public-vs-private-dots.png)](images/sf-pta-fundraising-4-public-vs-private-dots.png) |
+
 ## Files
 
 | Path | What it is |
 |---|---|
 | `index.html` | The interactive map. Self-contained apart from Google Fonts. |
+| `images/` | Static PNGs of the four map views, for sharing. |
 | `schools.csv` | One row per school: 73 SFUSD elementary and K–8 schools plus 19 private schools. |
 | `filings/public/` | 41 IRS Form 990 / 990-EZ returns (XML) for the PTAs that filed full returns. |
 | `filings/private/` | 20 IRS Form 990 returns (XML) for the private schools: each school's FY2025 return, plus Town School's FY2024 return. |
